@@ -1,0 +1,5 @@
+{
+  "name": "Live Football Scores",
+  "description": "A bilingual, SEO-optimized web app for real-time football scores, match schedules, and league information. Built with React and Tailwind CSS, it offers a seamless user experience in both English and Arabic, with strategically placed ad spaces for monetization.",
+  "requestFramePermissions": []
+}
